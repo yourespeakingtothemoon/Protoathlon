@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "ChaosVehiclesPlugin",
+			"Name": "AudioMotorSim",
 			"Enabled": true
 		}
 	]
